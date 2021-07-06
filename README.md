@@ -13,6 +13,7 @@ pip install re
 git clone https://github.com/larcker/afk_delete_tlbot.git
 
 
-- START -
+- START
+
 python afk_delete_tlbot/afk.py
 
